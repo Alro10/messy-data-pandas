@@ -1,4 +1,4 @@
-# messy-data-pandas
+# Cleaning messy dataset
 How to deal with messy dataset using pandas
 
 ## Help 
