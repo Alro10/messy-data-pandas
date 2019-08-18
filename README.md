@@ -1,7 +1,7 @@
 # Cleaning messy dataset
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-How to deal with messy dataset using pandas
+How to deal with messy dataset using pandas series.
 
 ## Help 
 
