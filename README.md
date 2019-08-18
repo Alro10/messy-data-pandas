@@ -10,3 +10,7 @@ How to deal with messy dataset using pandas
 - https://beepscore.com/website/2018/10/12/using-pandas-with-python-decimal.html
 - https://www.kaggle.com/chrisbow/cleaning-data-with-python-challenge-day-1
 - https://towardsdatascience.com/a-guide-to-pandas-and-matplotlib-for-data-exploration-56fad95f951c
+
+## Dataset
+
+- [[data](https://catalog.data.gov/dataset/purchase-card-pcard-fiscal-year-2014)]
